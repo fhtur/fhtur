@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 Learning : React, Docker, Laravel<br>- 👯 Looking for: Remote freelance, open source contributor<br>- 💬 Ask me about: MERN Stack, API Design, Web App<br>- 📫 Reach me: [Kholifaturrahman465@gmail.com]<br>- 🏢 Location: Palembang, South Sumatera, Indonesia📍<br>- ⚡ Hobbies: Coding, Photography, Gaming
+- 🌱 Learning : React, Docker, Laravel<br>- 👯 Looking for: Remote freelance, open source contributor<br>- 💬 Ask me about: MERN Stack, TALL Stack, API Design, Web App<br>- 📫 Reach me: [Kholifaturrahman465@gmail.com]<br>- 🏢 Location: Palembang, South Sumatera, Indonesia📍<br>- ⚡ Hobbies: Coding, Photography, Gaming
 
 
 ## 🌐 Socials:
